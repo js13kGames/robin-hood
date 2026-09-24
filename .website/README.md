@@ -1,4 +1,8 @@
 ---
+genres:
+  - rpg
+  - adventure
+  - simulation
 post: https://github.com/mhmdjawad/robinhoodgame/blob/main/README.md
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
